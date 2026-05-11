@@ -1,3 +1,4 @@
+
 # Finance KPI Dashboard 📊
 
 An interactive **Power BI Finance Dashboard** designed to monitor sales KPIs, track target achievement, analyze variance trends, and deliver actionable business insights through dynamic reporting and visualization.
@@ -133,9 +134,7 @@ The objective was to build a centralized and interactive Finance KPI Dashboard t
 
 # 📷 Dashboard Preview
 
-<p align="center">
-  <img src="dashboard.png" alt="Finance KPI Dashboard" width="900"/>
-</p>
+<img width="1327" height="770" alt="Screenshot 2026-05-11 115851" src="https://github.com/user-attachments/assets/5c2c3442-4ba4-4e7f-9087-f3b381887c21" />
 
 ---
 
