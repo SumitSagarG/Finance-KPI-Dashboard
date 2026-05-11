@@ -1,101 +1,192 @@
-# Finance-KPI-Dashboard
+# Finance KPI Dashboard 📊
 
-📌 Project Overview
+An interactive **Power BI Finance Dashboard** designed to monitor sales KPIs, track target achievement, analyze variance trends, and deliver actionable business insights through dynamic reporting and visualization.
 
-This project is an interactive Finance KPI Dashboard built in Power BI to analyze sales performance, track KPI achievement, monitor variance trends, and provide actionable business insights through dynamic visualizations and automated reporting.
+---
 
-The dashboard helps stakeholders quickly compare Actual vs Target Sales, identify performance gaps, and evaluate salesperson/team performance in real time.
+# 🚀 Project Overview
 
-🎯 Business Problem
+This project focuses on transforming raw sales data into a centralized and interactive Business Intelligence solution that enables organizations to monitor financial performance efficiently.
 
-Organizations often struggle with:
+The dashboard provides:
 
-Tracking sales KPIs efficiently
-Monitoring actual vs target performance
-Identifying declining sales trends early
-Consolidating reporting into a single interactive view
-Detecting underperforming teams or salespersons
+* Real-time KPI tracking
+* Actual vs Target sales comparison
+* Variance analysis
+* Trend monitoring
+* Salesperson performance evaluation
+* Team-level insights
 
-This dashboard addresses these challenges through centralized analytics and visualization.
+---
 
-⚡ Objectives
-Build a centralized KPI monitoring dashboard
-Compare Actual Sales vs Target Sales
-Analyze sales trends and variance %
-Identify performance decline patterns
-Enable interactive filtering and drill-down analysis
-Automate reporting workflows
-🛠️ Tools & Technologies
-Power BI
-DAX
-Power Query
-Data Modeling
-Data Visualization
-Business Intelligence Reporting
-📊 Key Features
-KPI Cards
-Total Sales Actual
-Total Sales Target
-YTD Sales Actual
-YTD Sales Target
-Variance & Variance %
-Target Achievement Tracking
-Interactive Visualizations
-Monthly sales trend analysis
-Actual vs Target comparison charts
-Salesperson performance tracking
-Variance analysis
-Team-level filtering
-Advanced Analytics
-Dynamic DAX measures
-Automated KPI calculations
-Trend analysis
-Performance monitoring
-Drill-down reporting
-📈 Quantifiable Insights
-Analyzed over $19M+ sales data
-Identified 14.54% decline in total sales actuals
-Detected 24.87% drop in sales trends over 3 months
-Tracked variance of ($367K) between actual and target sales
-Revealed only 2 out of 14 targets achieved
-Enabled faster performance monitoring and decision-making
-🚀 Business Impact
-Improved visibility into sales performance
-Reduced manual reporting efforts
-Enabled faster data-driven decisions
-Simplified KPI tracking across teams
-Enhanced trend monitoring and variance analysis
+# ⭐ STAR Methodology
 
+## 🟦 Situation
 
-📷 Dashboard Preview
+Businesses often struggle with fragmented reporting systems and delayed visibility into sales performance. Tracking KPI achievement, identifying declining trends, and monitoring target variance manually can slow down decision-making.
 
-(Add dashboard screenshot here)
+---
 
-Example:
+## 🟨 Task
 
-![Finance KPI Dashboard]()
-📂 Project Structure
+The objective was to build a centralized and interactive Finance KPI Dashboard that could:
+
+* Track sales KPIs in real time
+* Compare Actual vs Target sales
+* Monitor performance trends
+* Identify underperforming teams and salespersons
+* Improve reporting efficiency and business visibility
+
+---
+
+## 🟩 Action
+
+### Data Preparation & Transformation
+
+* Cleaned and transformed raw datasets using **Power Query**
+* Structured datasets for scalable reporting and analysis
+* Built relationships and optimized the data model
+
+### Dashboard Development
+
+* Designed interactive KPI dashboards in **Power BI**
+* Created dynamic DAX measures for:
+
+  * Sales Actuals
+  * Sales Targets
+  * Variance %
+  * YTD Analysis
+  * Trend Monitoring
+
+### Visualization & Analytics
+
+* Developed interactive visualizations for:
+
+  * Monthly sales trends
+  * Actual vs Target comparison
+  * Salesperson performance analysis
+  * Variance tracking
+  * Team-level filtering
+
+### Automation & Reporting
+
+* Automated KPI calculations and reporting workflows
+* Enabled drill-down filtering for detailed analysis
+* Improved accessibility of financial insights
+
+---
+
+## 🟥 Result
+
+### 📈 Quantifiable Business Impact
+
+* Analyzed over **$19M+ sales data**
+* Identified a **14.54% decline** in total sales actuals
+* Detected a **24.87% drop** in sales trends over 3 months
+* Tracked a sales variance of **($367K)** between actual and target performance
+* Revealed that only **2 out of 14 sales targets** were achieved
+* Improved visibility into business performance and KPI tracking
+* Enabled faster and more data-driven strategic decisions
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology            | Purpose                        |
+| --------------------- | ------------------------------ |
+| Power BI              | Dashboard Development          |
+| DAX                   | KPI Calculations & Measures    |
+| Power Query           | Data Cleaning & Transformation |
+| Data Modeling         | Relationship Management        |
+| Business Intelligence | Reporting & Analytics          |
+
+---
+
+# 📊 Dashboard Features
+
+## KPI Monitoring
+
+* Total Sales Actual
+* Total Sales Target
+* YTD Sales Actual
+* YTD Sales Target
+* Variance Tracking
+* Variance %
+* Target Achievement Metrics
+
+## Interactive Reporting
+
+* Dynamic filtering
+* Drill-down analysis
+* Trend visualization
+* Team-wise performance analysis
+* Salesperson comparison
+
+## Performance Insights
+
+* Monthly sales trend analysis
+* Actual vs Target comparisons
+* Variance tracking
+* Trend decline detection
+
+---
+
+# 📷 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" alt="Finance KPI Dashboard" width="900"/>
+</p>
+
+---
+
+# 📂 Project Structure
+
+```bash
 Finance-KPI-Dashboard/
 │
 ├── Finance Dashboard.pbix
-├── dataset.csv
 ├── dashboard.png
+├── dataset.csv
 └── README.md
-🔍 Key Learnings
-Building interactive BI dashboards
-Creating dynamic DAX calculations
-Designing KPI-driven visualizations
-Data transformation using Power Query
-Business storytelling through analytics
-📌 Future Improvements
-Forecasting & predictive analytics
-Real-time database integration
-Advanced drill-through reporting
-Row-level security implementation
-Mobile-optimized dashboard layout
-👨‍💻 Author
+```
 
-Sumit Sagar Gwari
+---
 
-LinkedIn: [Add LinkedIn URL]
-GitHub: [Add GitHub URL]
+# 🔍 Key Learnings
+
+* Building interactive Power BI dashboards
+* Writing advanced DAX measures
+* Data transformation using Power Query
+* KPI-driven business reporting
+* Data storytelling and visualization
+* Financial trend analysis
+
+---
+
+# 🚀 Future Improvements
+
+* Forecasting & predictive analytics
+* Real-time database connectivity
+* Advanced drill-through reporting
+* Row-level security implementation
+* Mobile responsive dashboard design
+
+---
+
+# 👨‍💻 Author
+
+## SUMIT SAGAR GWARI
+
+* LinkedIn: (https://www.linkedin.com/in/sumitsagarg/)
+
+---
+
+# ⭐ Support
+
+If you found this project useful:
+
+* Give this repository a ⭐
+* Connect with me on LinkedIn
+* Share feedback or suggestions
+
+---
